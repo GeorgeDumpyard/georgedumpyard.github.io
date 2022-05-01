@@ -1,0 +1,95 @@
+# YOUR NAME OR TITLE OF YOUR SITE
+name: Harsh Trivedi
+
+# YOUR BRAND/PERSONAL TAGLINE
+tagline: Howdy, I'm Harsh Trivedi. I'm passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination.
+
+# YOUR/BRAND IMAGE URL
+Image_URL: https://www.gravatar.com/avatar/0d73468bd0b0258eb61d9358352ecb7b?s=500
+
+# CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
+Cover_Image: https://source.unsplash.com/random
+
+# SOCIAL MEDIA
+links:
+
+  # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
+
+    # INSTAGRAM
+  - Name: Instagram
+    URL: https://www.instagram.com
+    Username: georgedumpyard
+    Color: '#DD2A7B'
+    Icon-Class: fab fa-instagram
+
+    # TWITTER
+  - Name: Twitter
+    URL: https://twitter.com
+    Username: georgedumpyard
+    Color: '#1DA1F2'
+    Icon-Class: fab fa-twitter
+
+    # YOUTUBE
+  - Name: YouTube
+    URL: https://www.youtube.com/channel
+    Username: georgedumpyard 
+    Color: '#ff0000'
+    Icon-Class: fab fa-youtube
+
+    # GITHUB
+  - Name: GitHub
+    URL: http://github.com
+    Username: GeorgeDumpyard
+    Color: '#6e5494'
+    Icon-Class: fab fa-github
+
+    # REDDIT
+  - Name: Reddit
+    URL: http://reddit.com/u
+    Username: NotGeorge999
+    Color: '#FF4500'
+    Icon-Class: fab fa-reddit-alien
+
+  #   # DISCORD
+    Name: Discord
+    URL: 'https://discord.gg'
+    Username: 
+    Icon-Class: fab fa-discord
+    Color: '#5865F2'
+    Text_Color: '#ffffff'
+
+    # SPOTIFY
+  - Name: Spotify
+    URL: http://open.spotify.com/user
+    Username: 34528xb88ljh4lxma7uugm1pj
+    Color: '#1DB954'
+    Icon-Class: fab fa-spotify
+
+# YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
+footer: 'Yes'
+
+# STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
+
+# Compress
+compress_html:
+  clippings: all
+
+# Exclude
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Icon
+
+# Base URL
+# baseurl: /links
+
+# Default Markdown Engine
+markdown: kramdown
